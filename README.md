@@ -21,3 +21,5 @@ Modern Full Stack ECommerce Application with Stripe & Sanity
 ![image](https://user-images.githubusercontent.com/70088342/160780549-111ed048-cd4b-4740-b2fd-2c6fc3520c52.png)
 ![image](https://user-images.githubusercontent.com/70088342/160780884-22d6025e-9b7d-4493-8136-b3dfbf00a32f.png)
 
+I also deployed this website on vercel app . This is the live UI link .
+https://phanox.vercel.app/
